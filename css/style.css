@@ -1,16 +1,10 @@
-title{
 
-}
 
 nav{
 
 }
 
-li 
-{
-    display: inline;
-    float: left;
-}
+
 
 a 
 {
@@ -19,9 +13,9 @@ a
 }
 
 header{
-    color: rgb(0, 0, 0);
-    background-color: rgb(229, 181, 212);
-    font-size: 30px;
+    color: rgb(229, 181, 212);
+    background-color: rgb(175, 223, 207);
+    font-size: 23px;
     
 
 
@@ -47,16 +41,22 @@ footer{
     
 }
 
+
+
 li a
         {
             display: block;
             padding: 8px;
             text-align: center;
+            text-decoration: none;
+            font-weight: bold;
+            display: inline;
+            float: left;
         }
 
 li a :hover 
         {
-            background-color: rgb(228, 208, 182);
+            color: rgb(175, 223, 207);
         }
 
  ul 
