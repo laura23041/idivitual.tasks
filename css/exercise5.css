@@ -9,6 +9,14 @@ body {
     background: #d477c1;
     color: white;
   }
+
+  .navbar-nav{
+  background-color: #d477c1;
+  }
+
+  form{
+   background-color: #d477c1;
+  }
   
   
   .navbar {
@@ -38,7 +46,7 @@ body {
   
   .side {
     flex: 30%;
-    background-color: #f1f1f1;
+    background-color: #ddd;
     padding: 20px;
   }
   
@@ -48,6 +56,7 @@ body {
     background-color: white;
     padding: 20px;
   }
+
   
   
   img {
@@ -60,7 +69,7 @@ body {
   .footer {
     padding: 20px;
     text-align: center;
-    background: #ddd;
+    background: #aaa;
   }
   
   
@@ -69,3 +78,6 @@ body {
       flex-direction: column;
     }
   }
+#th1{
+    background-color: #d477c1;
+}
